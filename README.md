@@ -7,6 +7,7 @@
 </head>
 <body>
 
-<body>please check out the linked rentry! ^_^</body>
+<p>please check out my temporary rentry (!!!) ...</p>
+<p1>... aka https://rentry.co/coralbones 🌺 </p1>
   
 </body>
